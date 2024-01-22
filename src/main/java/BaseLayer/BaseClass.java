@@ -13,7 +13,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class BaseClass {
 	public static WebDriver driver;
 	public static Properties prop;
-	
+	//changes in base class
 	public BaseClass()  
 	{
 		File f=new File(System.getProperty("user.dir")+"\\src\\main\\java\\ConfigurationLayer\\Config.properties");
