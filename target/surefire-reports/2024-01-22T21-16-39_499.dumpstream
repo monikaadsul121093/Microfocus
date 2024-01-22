@@ -1,0 +1,4 @@
+# Created at 2024-01-22T21:16:41.184
+Boot Manifest-JAR contains absolute paths in classpath 'F:\LearnTesting\Microfocus\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
