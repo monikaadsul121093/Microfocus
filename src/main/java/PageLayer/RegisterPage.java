@@ -8,6 +8,8 @@ import org.openqa.selenium.support.ui.Select;
 import BaseLayer.BaseClass;
 
 public class RegisterPage extends BaseClass{
+	@FindBy(name="")
+	private WebElement mm;
 	
 	@FindBy(id="sreg_fname_inpt")
 	private WebElement fname;
